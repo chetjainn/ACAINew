@@ -1,0 +1,6 @@
+flask
+transformers
+torch>=1.0
+torchvision>=0.8.0
+requests
+azure-storage-blob
